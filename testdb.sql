@@ -36,7 +36,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `password`, `email`, `contact`, `address`, `securityQ`) VALUES
-(1, 'Arman', 'dj9nndi', 'vitemamba@mail.com', '018387477', '234 Donkd', 'Ideal'),
+(1, 'Arman', 'noob', 'vitemamba@mail.com', '018387477', '234 Donkd', 'Ideal'),
 (2, 'timmy', '1234', 'ai@mail.com', '02233488', '210 Soon', 'South Point'),
 (8, 'Monty', 'python', 'monpy@mail.com', '0123445567', '123 Satan Town', 'Satarn'),
 (11, 'Nick', 'Nick', 'store@pull.com', '0112488', '55 Wasa', 'Night'),
